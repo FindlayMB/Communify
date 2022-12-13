@@ -2,5 +2,5 @@
 
 
 ## Contributors
-  Findlay Brown
-  Shivam Desai
+    Findlay Brown
+    Shivam Desai
